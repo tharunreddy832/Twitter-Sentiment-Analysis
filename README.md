@@ -2,22 +2,21 @@
 
 A Machine Learning project that classifies tweets as Positive or Negative using Natural Language Processing (NLP).
 
-## Features
-- Text preprocessing
-- TF-IDF vectorization
-- Logistic Regression model
-- Real-time sentiment prediction
-- Streamlit web interface
-
 ## Technologies Used
 - Python
 - NLTK
 - Scikit-Learn
 - TF-IDF
+- Logistic Regression
 - Streamlit
 
 ## Dataset
-Sentiment140 Twitter Dataset
+Sentiment140 Dataset
+
+## Features
+- Tweet preprocessing
+- Sentiment prediction
+- Web interface using Streamlit
 
 ## Run
 
